@@ -1,0 +1,13 @@
+Need:
+-- bullet class + mechanics
+--Score Keeper/Health Keeper
+-- random enemy spawn 
+--dead Player
+
+If Extra time:
+--Time since damaged
+-- Laser from sky?
+--gameover Screen 
+-- diffuculty? 
+
+collision box, smaller box2d
