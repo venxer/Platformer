@@ -1,8 +1,5 @@
 package com.mygdx.game;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;
 
